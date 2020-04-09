@@ -10,4 +10,4 @@ if (response === 'dogs') {
     message === 'Dogs are the best!'
 } else (response === 'Do you like animals?')
 
-document.write('<h3>' + 'Hello' + 'username' '</h3>')
+document.write('<h3>' + 'Hello' + username + '</h3>')
